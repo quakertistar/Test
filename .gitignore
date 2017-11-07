@@ -3,3 +3,4 @@
 *.temp
 *.proj.hash
 *.~
+*.log
